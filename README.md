@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SUCHITRAGIRI
-- 👀 I’m interested in web devlopment
+- 👋 Hey there!
+- 👀 I’m interested in web devlopment.
 - 🌱 I’m currently learning nodeJs and DB
 - 💞️ I’m looking to collaborate on JavaScript and Java projects
 - 📫 How to reach me - 
