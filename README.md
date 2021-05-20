@@ -7,14 +7,14 @@
 - 👯 I’m looking to collaborate on Full stack web development
 - 🤔 I’m looking for help with Backend & APIs
 - 💬 Ask me about Frontend Technologies and DSA
-- 📫 How to reach me: [Twitter @Suchitr36309633](https://twitter.com/Suchitr36309633) &  [Linkedin](https://www.linkedin.com/in/suchitra-giri/)
+- 📫 How to reach me: [Twitter @Suchitr36309633](https://twitter.com/suchitra_13) &  [Linkedin](https://www.linkedin.com/in/suchitra-giri/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love to laugh loudly!
 
 ## Find me around the web 🌍
 
 - [LinkedIn](https://www.linkedin.com/in/suchitra-giri/)
-- [Twitter](https://twitter.com/Suchitr36309633)
+- [Twitter](https://twitter.com/suchitra_13)
 - [Dev.to](https://dev.to/suchitr36309633)
 - [Medium](https://suchigiri13.medium.com/)
 
