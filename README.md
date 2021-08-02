@@ -40,6 +40,8 @@
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Complete Roadmap to Learn Data Structure and Algorithms 🐱‍🏍👨‍💻👩‍💻](https://dev.to/suchitra_13/complete-roadmap-to-learn-data-structure-and-algorithms-1pka)
+- [How to use MongoDB Atlas?](https://dev.to/suchitra_13/how-to-use-mongodb-atlas-4bl4)
 - [What is Linux? in very easy and intersting way!🔥](https://dev.to/suchitr36309633/what-is-linux-3jnc)
 - [Combination problem with some example📋](https://dev.to/suchitr36309633/combinations-problem-3f83)
 - [Crio Winter Of Doing: All about in details💁](https://suchigiri13.medium.com/crio-do-winter-of-doing-stage-1-ae75cb84fd4e)
