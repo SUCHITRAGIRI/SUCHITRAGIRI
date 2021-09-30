@@ -48,6 +48,14 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+<!-- github stats -->
+<h3> 📈 GitHub Stats</h3>
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SUCHITRAGIRI&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SUCHITRAGIRI&theme=radical" />
+</p>
+  
+  
 <!-- [![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cawwn08bx5rh2s9bax2x.png)](https://www.buymeacoffee.com/suchitra) -->
 <a href="https://www.buymeacoffee.com/suchitra"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cawwn08bx5rh2s9bax2x.png" alt="drawing" width="200"/></a>
-
