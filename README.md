@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=4FA5F7&size=22&lines=I'm+a+full+stack+developer;Enthusiast+in+design;Love+to+write+blogs;Good+in+problem+solving;Love+to+open+source)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on my MERN Stack
-- 🌱 I’m currently learning Backend & APIs
-- 👯 I’m looking to collaborate on Full stack web development
+- 🔭 I’m currently working on Docker
+- 🌱 I’m currently learning DevOps and Cloud
+- 👯 I’m looking to collaborate on Full stack web development and DevOps
 - 🤔 I’m looking for help with Backend & APIs
 - 💬 Ask me about Frontend Technologies and DSA
 - 📫 How to reach me: [Twitter @suchitra_13](https://twitter.com/suchitra_13) &  [Linkedin](https://www.linkedin.com/in/suchitra-giri/)
@@ -13,10 +13,15 @@
 
 ## Find me around the web 🌍
 
-- [LinkedIn](https://www.linkedin.com/in/suchitra-giri/)
-- [Twitter](https://twitter.com/suchitra_13)
-- [Dev.to](https://dev.to/suchitr36309633)
-- [Medium](https://suchigiri13.medium.com/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/suchitra-giri/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://twitter.com/suchitra_13"><img alt=Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
+ <a href="https://hackerrank.com/suchigiri13"> <img alt="HackerRank" src="https://img.shields.io/badge/Hackerrank-008000?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+   
+<a href="https://leetcode.com/perfactmistake/"> <img alt="Leetcode" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fperfactmistake&logo=leetcode&logoColor=yellow"/></a>  <a href="https://suchigiri13.medium.com/"> <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://dev.to/suchitra_13"> <img alt="Medium" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+      
+</div>
 
 
 ## My skills 🚀
@@ -35,11 +40,13 @@
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/-canva-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white) 
 
 
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [How to manage your software documentation with docz](https://aviyel.com/post/894/how-to-manage-your-software-documentation-with-docz)   
 - [Complete Roadmap to Learn Data Structure and Algorithms 🐱‍🏍👨‍💻👩‍💻](https://dev.to/suchitra_13/complete-roadmap-to-learn-data-structure-and-algorithms-1pka)
 - [How to use MongoDB Atlas?](https://dev.to/suchitra_13/how-to-use-mongodb-atlas-4bl4)
 - [What is Linux? in very easy and intersting way!🔥](https://dev.to/suchitr36309633/what-is-linux-3jnc)
