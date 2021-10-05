@@ -44,6 +44,8 @@
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
+  
+- <a href="https://dev.to/suchitra_13/hacktoberfest-2021-guide-and-resources-4kd9"><img src="https://user-images.githubusercontent.com/60110218/135977308-3c35b977-d444-4958-80f9-e9a31ccf728b.png" alt="drawing" width="200" height="100"/></a> 
 - [How to manage your software documentation with docz](https://aviyel.com/post/894/how-to-manage-your-software-documentation-with-docz)   
 - [Complete Roadmap to Learn Data Structure and Algorithms 🐱‍🏍👨‍💻👩‍💻](https://dev.to/suchitra_13/complete-roadmap-to-learn-data-structure-and-algorithms-1pka)
 - [How to use MongoDB Atlas?](https://dev.to/suchitra_13/how-to-use-mongodb-atlas-4bl4)
